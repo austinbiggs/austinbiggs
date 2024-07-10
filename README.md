@@ -1,4 +1,4 @@
 - 🌐 &nbsp;[Personal Website](https://austinbiggs.com)
 - 👱‍♂️ &nbsp;Pronouns: he/him
-- 🌱 &nbsp;Learning: [Tailwind](https://tailwindcss.com/) + [LangChain](https://www.langchain.com/)
+- 🌱 &nbsp;Learning: [Svelte]([https://tailwindcss.com/](https://svelte.dev/)) + [LangChain](https://www.langchain.com/)
 - 🔭 &nbsp;Creating: Design Systems + User-centric libraries
