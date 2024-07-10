@@ -2,3 +2,9 @@
 - 👱‍♂️ &nbsp;Pronouns: he/him
 - 🌱 &nbsp;Learning: [Svelte](https://svelte.dev/) + [LangChain](https://www.langchain.com/)
 - 🔭 &nbsp;Creating: Design Systems + User-centric libraries
+- 🛠️ &nbsp;Previous work:
+     - React component libraries
+     - Authentication system
+     - State Machine-driven filter library
+     - Schema-driven multipage form generator
+     - NextJS Apps
