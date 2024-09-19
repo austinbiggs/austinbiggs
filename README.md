@@ -1,4 +1,3 @@
-- 🌐 &nbsp;[Personal Website](https://austinbiggs.com)
 - 👱‍♂️ &nbsp;Pronouns: he/him
 - 🌱 &nbsp;Learning: [Svelte](https://svelte.dev/) + [LangChain](https://www.langchain.com/)
 - 🔭 &nbsp;Creating: Design Systems + User-centric libraries
