@@ -1,5 +1,5 @@
 - 👱‍♂️ &nbsp;Pronouns: he/him
-- 🌱 &nbsp;Learning: [Svelte](https://svelte.dev/) + [LangChain](https://www.langchain.com/)
+- 🌱 &nbsp;Learning: [Encore]([https://svelte.dev/](https://encore.dev/))
 - 🔭 &nbsp;Creating: Design Systems + User-centric libraries
 - 🛠️ &nbsp;Previous work:
      - React component libraries
