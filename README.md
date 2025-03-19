@@ -1,7 +1,7 @@
-- 👱‍♂️ &nbsp;Pronouns: he/him
-- 🌱 &nbsp;Learning: [tRPC](https://trpc.io/) + [Encore](https://encore.dev/)
+- 🌱 &nbsp;Learning: [Zustand](https://zustand-demo.pmnd.rs/) + [Temporal](https://encore.dev/)
 - 🔭 &nbsp;Creating: Design Systems + User-centric libraries
 - 🛠️ &nbsp;Previous work:
+     - AI-powered business insights
      - React component libraries
      - Authentication system
      - State Machine-driven filter library
